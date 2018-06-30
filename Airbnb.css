@@ -1,0 +1,17 @@
+/*.ui .four .item .menu {
+	display: flex;
+	align-items: flex-start;
+}*/
+
+#slidemenu {
+	width: 40vw;
+}
+
+.disposition {
+
+}
+
+#logo {
+	height: 60px;
+	width: 80px;
+}
